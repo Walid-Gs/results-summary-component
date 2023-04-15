@@ -69,7 +69,7 @@ body {
   color: hsl(252, 100%, 67%);
 }
 
-.component-container .result-container p:first-child {
+.component-container .result-container h2 {
   font-size: 20px;
   font-weight: 700;
   color: hsla(241, 100%, 89%, 0.925);
@@ -97,7 +97,7 @@ body {
   justify-content: space-between;
 }
 
-.component-container .summary-container p:first-child {
+.component-container .summary-container h2 {
   font-size: 20px;
   font-weight: 700;
   color: hsl(224, 30%, 27%);
