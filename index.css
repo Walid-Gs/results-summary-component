@@ -115,10 +115,10 @@ body {
   font-size: 14px;
 }
 
-.section .section_title img {
+.section .section_title svg {
   margin-right: 10px;
-  width: 15px;
-  height: 15px;
+  /* width: 15px;
+  height: 15px; */
 }
 
 .component-container .summary-container .section .section_title {
